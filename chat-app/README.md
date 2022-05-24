@@ -10,7 +10,18 @@ Alice, Bob and Candy are the users. Anyone should be able to send a message to a
 
 If X wants to send message to Y, they follow this syntax: Y: <message>
 
-
+***Server***
+  
+  `node server.mjs`
+  
+***Clients***
+  
+  `node alice.mjs`
+  
+  `node bob.mjs`
+  
+  `node candies.mjs`
+  
 **Requirements**
 
 - Multiple users can start the client applications
