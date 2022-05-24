@@ -9,6 +9,8 @@ Use [socket.io](http://socket.io) and NodeJS / or anything else.
 Alice, Bob and Candy are the users. Anyone should be able to send a message to anyone else.
 
 If X wants to send message to Y, they follow this syntax: Y: <message>
+  
+Eg: If Alice wants to say Hi to Bob, she types this `Bob: Hi`
 
 ***Server***
   
