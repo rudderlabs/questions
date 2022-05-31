@@ -44,6 +44,6 @@ Optional (Bonus):
 - A better CLI interface for sending and receiving messages
 - Dockerize/Docker-compose the setup 
 
-** Submission **
+**Submission**
 
 Fork this repo, make the changes as required and submit the forked repo to the interview team
