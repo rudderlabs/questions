@@ -40,3 +40,10 @@ Optional (Bonus):
 - What happens to messages when one user is offline?
 - List all online users
 - Broadcast support
+- How do we handle random order of starting/restarting the applications (Eg. Client starts before the server, Client reconnects to the server)
+- A better CLI interface for sending and receiving messages
+- Dockerize/Docker-compose the setup 
+
+** Submission **
+
+Fork this repo, make the changes as required and submit the forked repo to the interview team
